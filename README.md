@@ -5,3 +5,5 @@ This is was a practice project to create a version of the old snake game at Digi
 
 - Using Font Awesome to have an icon by the title.
 
+## Screenshot
+![](https://user-images.githubusercontent.com/79882701/118060358-fbf46280-b368-11eb-8cb0-eea2b7f4ff5f.png)
